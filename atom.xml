@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[AGreyCrane]]></title>
+  <link href="http://agreycrane.github.io/atom.xml" rel="self"/>
+  <link href="http://agreycrane.github.io/"/>
+  <updated>2014-05-23T16:03:19-04:00</updated>
+  <id>http://agreycrane.github.io/</id>
+  <author>
+    <name><![CDATA[Alex Crane]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Suitable First Post]]></title>
+    <link href="http://agreycrane.github.io/blog/2014/05/23/suitable-first-post/"/>
+    <updated>2014-05-23T12:42:41-04:00</updated>
+    <id>http://agreycrane.github.io/blog/2014/05/23/suitable-first-post</id>
+    <content type="html"><![CDATA[<p>Just getting things up and running. First deploy.</p>
+]]></content>
+  </entry>
+  
+</feed>
